@@ -1,5 +1,5 @@
 # Hi! I'm Isabella 👋
-### 🎓 I’m a computer engineering student at the university of Modena and Reggio Emilia (UniMoRe)
+## 🎓 I’m a computer engineering student at the university of Modena and Reggio Emilia (UniMoRe)
 
 
 ### 🌐 Socials:
