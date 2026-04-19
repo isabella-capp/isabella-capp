@@ -51,6 +51,32 @@ Aspiring AI/ML Engineer with a strong interest in **Machine Learning**, **Deep L
 
 <br>
 
+## 💠 Education
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <b>📆 Sept. 2025 - Current</b><br>
+      <i>🎯 Expected: Oct. 2027</i>
+    </td>
+    <td width="80%">
+      <b>Master’s Degree in Artificial Intelligence Engineering</b><br>
+      <i>Università di Modena e Reggio Emilia (UNIMORE)</i> — Modena, Italy
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" align="center">
+      <b>📆 Sept. 2022 - Oct. 2025</b><br>
+      <i>🏆 Grade: 110L </i>
+    </td>
+    <td width="80%">
+      <b>Bachelor's Degree in Computer Engineering</b><br>
+      <i>Università di Modena e Reggio Emilia (UNIMORE)</i> — Modena, Italy
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## 💠 Contacts
 <div align="center">
   <p><a target="_blank" href="https://www.linkedin.com/in/isabella-cappellino" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
